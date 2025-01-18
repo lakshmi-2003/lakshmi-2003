@@ -1,6 +1,6 @@
  # 💫 About Me:
-- Enthuastic MCA final year student with a strong foundation in full-stack development, particularly in python using Django.
-- Proficient in Front-End and Back-End Technologies including HTML, CSS and Java Programming. <br>Experianced with databases such as MySQL, Oracle and MongoDB.
+- Enthuastic MCA final year student with a strong foundation in full-stack development, particularly in python using Django and Flask.
+- Proficient in Front-End and Back-End Technologies including HTML, CSS and Java Programming. <br>Experianced with databases such as MySQL, SQL Oracle and MongoDB.
 - Skilled in Data Manipulation and Analysis using Pandas and Numpy with a basic understanding of Javascript.
 - Eager to leverage technical expertise and problem-solving skills in a challenging role within a dynamic organization.
 
